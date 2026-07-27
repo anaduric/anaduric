@@ -153,7 +153,7 @@ Android puzzle collection with Firebase leaderboards and local user management.
 <img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/ana-duric">
 <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
