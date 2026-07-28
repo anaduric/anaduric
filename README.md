@@ -23,21 +23,6 @@ I'm currently focused on Java, Spring Boot, Kotlin, and modern web technologies,
 
 <br>
 
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=anaduric&hide_border=true&background=0D1117&ring=16A34A&fire=16A34A&currStreakLabel=16A34A"/>
-
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anaduric&bg_color=0D1117&color=16A34A&line=16A34A&point=ffffff&hide_border=true"/>
-
-</div>
-
-<br>
-
 ## Skills
 
 **Web Technologies**
