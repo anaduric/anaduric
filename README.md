@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Java+%26+Kotlin+Developer;Spring+Boot+%7C+Vue.js+%7C+Laravel;Building+REST+APIs+%26+Android+Apps;Always+learning+something+new"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=HTML+%7C+CSS+%7C+JavaScript+%26+Vue.js;PHP+%26+Laravel;Java+%26+Spring+Boot;Kotlin;MySQL+%7C+Microsoft+SQL+Server+%7C+PostgreSQL/>
 </p>
 
 </div>
